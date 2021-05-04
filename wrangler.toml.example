@@ -1,0 +1,4 @@
+name = "cloudflare-worker-reverse-proxy"
+type = 'javascript'
+account_id = ''
+workers_dev = true
