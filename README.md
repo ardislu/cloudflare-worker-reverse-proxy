@@ -6,7 +6,7 @@ This is a reverse proxy implemented using [Cloudflare workers](https://workers.c
 
 1. Clone this repo
 ```
-git clone 
+git clone https://github.com/ardislu/cloudflare-worker-reverse-proxy.git
 ```
 
 2. Install dependencies
