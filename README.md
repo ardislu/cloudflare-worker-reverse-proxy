@@ -1,6 +1,10 @@
-# cloudflare-worker-reverse-proxy
+# [DEPRECATED] cloudflare-workers
 
-This is a reverse proxy implemented using [Cloudflare workers](https://workers.cloudflare.com/).
+## ***DEPRECATED 26 MAY 2021***
+
+***Use [ardislu/cloudflare-workers](https://github.com/ardislu/cloudflare-workers) instead.***
+
+Collection of my personal utilities hosted on Cloudflare Workers.
 
 # Quickstart
 
